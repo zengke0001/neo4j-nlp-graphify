@@ -1,13 +1,5 @@
+## Neo4j NLP framework
 
-## 基于Neo4j的自然语言处理框架
+> JDK 1.8 and Neo4j 3.x support
 
-> Java开发，JDK版本1.8。
-
-### 开发人员
-
-WeChat: wgybzb
-
-QQ: 1010437118
-
-E-mail: wgybzb@sina.cn
-
+> the source was folked from graphify
